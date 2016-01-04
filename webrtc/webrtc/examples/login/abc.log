@@ -1,0 +1,274 @@
+In archive ../../../out/lib/librtc_jingle.a:
+
+qname.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmlbuilder.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmlconstants.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmlelement.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmlnsstack.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmlparser.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmlprinter.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+chatroommoduleimpl.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+constants.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+discoitemsquerytask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+hangoutpubsubclient.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+iqtask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+jid.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+moduleimpl.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+mucroomconfigtask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+mucroomdiscoverytask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+mucroomlookuptask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+mucroomuniquehangoutidtask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+pingtask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+presenceouttask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+presencereceivetask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+presencestatus.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+pubsub_task.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+pubsubclient.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+pubsubstateclient.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+pubsubtasks.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+receivetask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+rostermoduleimpl.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+saslmechanism.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmppauth.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmppclient.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmppengineimpl.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmppengineimpl_iq.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmpplogintask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmpppump.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmppsocket.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmppstanzaparser.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmpptask.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+
+
+xmppthread.o:     file format elf32-littlearm
+
+DYNAMIC SYMBOL TABLE:
+no symbols
+
+

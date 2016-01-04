@@ -1,0 +1,9 @@
+export INSTALLDIR=/opt/hisi-linux/x86-arm/arm-hisiv400-linux/
+export PATH=$INSTALLDIR/bin:$PATH
+export TARGETMACH=arm-hisiv400-linux
+export BUILDMACH=x86_64-whatever-linux2
+export CROSS=arm-hisiv400-linux
+export CC=${CROSS}-gcc
+export LD=${CROSS}-ld
+export AS=${CROSS}-as
+export AR=${CROSS}-ar

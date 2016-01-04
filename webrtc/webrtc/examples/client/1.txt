@@ -1,0 +1,1 @@
+arm-openwrt-linux-gnueabi-g++ -o client  callclient.o conductor.o console.o main.o randomtask.o -L../../../webrtc/../out/lib -ltalk -lrtc -lexpat -ljsoncpp -L. -lstdc++ -lssl -lcrypto -lm -ldl -lrt -lpthread
